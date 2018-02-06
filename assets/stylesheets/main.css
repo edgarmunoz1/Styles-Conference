@@ -80,13 +80,16 @@ table {
   display: inline-block;
   vertical-align: top;
 }
-.col-1-3 {
-  width: 33.33%;
-}
-.col-1-3 {
-  width: 66.66%;
-}
 
+.col-1-3 {
+  width: 30.00%;
+}
+.col-2-3 {
+  width: 30.00%;
+}
+.col-3-3 {
+  width: 30.00%;
+}
 /*
   ========================================
   Clearfix
